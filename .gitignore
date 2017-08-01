@@ -1,0 +1,5 @@
+/target/
+.cache-main
+src/main/resources/in/prod_config.xml
+src/main/resources/out/
+/rc-contentload.log

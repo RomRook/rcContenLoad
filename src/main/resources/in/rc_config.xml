@@ -1,0 +1,16 @@
+<config>
+    <default_hierarchy>/home/romek/git/GlobalServices_S7/com.openjaw.conn.rc.contentload/target/</default_hierarchy>
+    <data_dir>/home/romek/git/GlobalServices_S7/com.openjaw.conn.rc.contentload/src/main/resources/</data_dir>
+    <uts_endpoint>http://www.hotelbook.pro/xml/</uts_endpoint>
+    <uts_user>xmls7</uts_user>
+    <uts_password>YZFNZrUgSz4x</uts_password>
+    <rc_endpoint>https://rentalcars.com/service/ServiceRequest.do</rc_endpoint>
+    <rc_user>s7_ru</rc_user>
+    <rc_password>ed0YsB7p</rc_password>
+    <rc_remote_ip>91.151.7.6</rc_remote_ip>
+    <xdist_endpoint>http://localhost:9081/services/spm/spm</xdist_endpoint>
+    <xdist_timeout>90000</xdist_timeout>
+    <car_supplier_code>RC</car_supplier_code>
+    <car_booking_office_code>RC_0</car_booking_office_code>
+    <number_of_workers>3</number_of_workers>
+</config>

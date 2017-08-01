@@ -1,0 +1,80 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+ 
+  <name>OpenJaw Connector - Rental Cars - Content Load</name>
+  <artifactId>com.openjaw.conn.rc.contentload</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  
+  <parent>
+    <groupId>com.openjaw</groupId>
+    <artifactId>com.openjaw.parent</artifactId>
+    <version>7.5.0-SNAPSHOT</version>
+    <relativePath>../com.openjaw.parent</relativePath>
+  </parent>
+ 
+  <build>
+    <sourceDirectory>src/main/scala</sourceDirectory>
+    <plugins>
+      <plugin><groupId>net.alchim31.maven</groupId><artifactId>scala-maven-plugin</artifactId>
+       <executions>
+         <execution>
+           <goals>
+             <goal>compile</goal>             
+           </goals>
+         </execution>
+       </executions>
+	    <configuration>
+          <target>1.7</target>
+	      <launchers>
+	        <launcher><id>romek</id>
+	          <mainClass>com.openjaw.contentload.Main</mainClass>
+	          <args>
+	            <arg>arg1</arg>
+	          </args>
+	          <jvmArgs>
+	            <jvmArg>-Xmx128m</jvmArg>
+	          </jvmArgs>
+	        </launcher>
+	      </launchers>
+	    </configuration>
+      </plugin>
+      <plugin><artifactId>maven-assembly-plugin</artifactId>
+        <configuration>
+          <archive>
+            <manifest>
+              <mainClass>com.openjaw.contentload.Main</mainClass>
+            </manifest>
+          </archive>
+          <descriptorRefs>
+            <descriptorRef>jar-with-dependencies</descriptorRef>
+          </descriptorRefs>
+        </configuration>
+        <executions>
+          <execution><id>make-assembly</id>
+            <phase>package</phase>
+            <goals><goal>single</goal></goals>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+ 
+  <reporting>
+    <plugins>
+      <plugin><groupId>net.alchim31.maven</groupId><artifactId>scala-maven-plugin</artifactId></plugin>
+    </plugins>
+  </reporting>
+  
+  <dependencies>
+    <dependency><groupId>org.scala-lang</groupId>            <artifactId>scala-library</artifactId>     <version>2.11.8</version></dependency>
+  	<dependency><groupId>org.scalaj</groupId>                <artifactId>scalaj-http_2.11</artifactId>  <version>2.3.0</version></dependency>
+  	<dependency><groupId>org.scala-lang.modules</groupId>    <artifactId>scala-xml_2.11</artifactId>    <version>1.0.6</version></dependency>
+  	<dependency><groupId>com.typesafe.scala-logging</groupId><artifactId>scala-logging_2.11</artifactId><version>3.5.0</version></dependency>
+    <dependency><groupId>ch.qos.logback</groupId>            <artifactId>logback-classic</artifactId>   <version>1.1.7</version></dependency>
+    <dependency><groupId>commons-cli</groupId>               <artifactId>commons-cli</artifactId>       <version>1.3.1</version></dependency>
+    <!--<dependency><groupId>com.typesafe.akka</groupId>         <artifactId>akka-actor_2.11</artifactId>   <version>2.4.16</version></dependency>-->
+    <dependency><groupId>com.typesafe.akka</groupId>         <artifactId>akka-actor_2.11</artifactId>   <version>2.3.16</version></dependency>
+  </dependencies>
+
+</project>

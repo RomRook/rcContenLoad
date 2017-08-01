@@ -1,0 +1,172 @@
+<Countries>
+  <Country StateCode="" ISOCountryCode="AL" CurrentName="Albania" LocationType="country" LocationId="COUNTRY_AL">Albania</Country>
+  <Country StateCode="" ISOCountryCode="AS" CurrentName="American Samoa" LocationType="country" LocationId="COUNTRY_AS">American Samoa</Country>
+  <Country StateCode="" ISOCountryCode="AD" CurrentName="Andorra" LocationType="country" LocationId="COUNTRY_AD">Andorra</Country>
+  <Country StateCode="" ISOCountryCode="AO" CurrentName="Angola" LocationType="country" LocationId="COUNTRY_AO">Angola</Country>
+  <Country StateCode="" ISOCountryCode="AG" CurrentName="Antigua" LocationType="country" LocationId="COUNTRY_AG">Antigua</Country>
+  <Country StateCode="" ISOCountryCode="AR" CurrentName="Argentina" LocationType="country" LocationId="COUNTRY_AR">Argentina</Country>
+  <Country StateCode="" ISOCountryCode="AM" CurrentName="Armenia" LocationType="country" LocationId="COUNTRY_AM">Armenia</Country>
+  <Country StateCode="" ISOCountryCode="AW" CurrentName="Aruba" LocationType="country" LocationId="COUNTRY_AW">Aruba</Country>
+  <Country StateCode="" ISOCountryCode="AU" CurrentName="Australia" LocationType="country" LocationId="COUNTRY_AU">Australia</Country>
+  <Country StateCode="" ISOCountryCode="AT" CurrentName="Austria" LocationType="country" LocationId="COUNTRY_AT">Austria</Country>
+  <Country StateCode="" ISOCountryCode="AZ" CurrentName="Azerbaijan" LocationType="country" LocationId="CouAzAzerbai593">Azerbaijan</Country>
+  <Country StateCode="" ISOCountryCode="BS" CurrentName="Bahamas" LocationType="country" LocationId="COUNTRY_BS">Bahamas</Country>
+  <Country StateCode="" ISOCountryCode="BH" CurrentName="Bahrain" LocationType="country" LocationId="COUNTRY_BH">Bahrain</Country>
+  <Country StateCode="" ISOCountryCode="BB" CurrentName="Barbados" LocationType="country" LocationId="COUNTRY_BB">Barbados</Country>
+  <Country StateCode="" ISOCountryCode="BY" CurrentName="Belarus" LocationType="country" LocationId="CouByBelarus296">Belarus</Country>
+  <Country StateCode="" ISOCountryCode="BE" CurrentName="Belgium" LocationType="country" LocationId="COUNTRY_BE">Belgium</Country>
+  <Country StateCode="" ISOCountryCode="BZ" CurrentName="Belize" LocationType="country" LocationId="COUNTRY_BZ">Belize</Country>
+  <Country StateCode="" ISOCountryCode="BO" CurrentName="Bolivia" LocationType="country" LocationId="CouBoBolivia278">Bolivia</Country>
+  <Country StateCode="" ISOCountryCode="BW" CurrentName="Botswana" LocationType="country" LocationId="COUNTRY_BW">Botswana</Country>
+  <Country StateCode="" ISOCountryCode="BR" CurrentName="Brazil" LocationType="country" LocationId="COUNTRY_BR">Brazil</Country>
+  <Country StateCode="" ISOCountryCode="VG" CurrentName="British Virgin Islands" LocationType="country" LocationId="COUNTRY_VG">British Virgin Islands</Country>
+  <Country StateCode="" ISOCountryCode="BG" CurrentName="Bulgaria" LocationType="country" LocationId="COUNTRY_BG">Bulgaria</Country>
+  <Country StateCode="" ISOCountryCode="CA" CurrentName="Canada" LocationType="country" LocationId="COUNTRY_CA">Canada</Country>
+  <Country StateCode="" ISOCountryCode="KY" CurrentName="Cayman Islands" LocationType="country" LocationId="COUNTRY_KY">Cayman Islands</Country>
+  <Country StateCode="" ISOCountryCode="CL" CurrentName="Chile" LocationType="country" LocationId="COUNTRY_CL">Chile</Country>
+  <Country StateCode="" ISOCountryCode="CN" CurrentName="China" LocationType="country" LocationId="COUNTRY_CN">China</Country>
+  <Country StateCode="" ISOCountryCode="CO" CurrentName="Colombia" LocationType="country" LocationId="CouColumbia171">Colombia</Country>
+  <Country StateCode="" ISOCountryCode="CR" CurrentName="Costa Rica" LocationType="country" LocationId="COUNTRY_CR">Costa Rica</Country>
+  <Country StateCode="" ISOCountryCode="HR" CurrentName="Croatia" LocationType="country" LocationId="COUNTRY_HR">Croatia</Country>
+  <Country StateCode="" ISOCountryCode="CY" CurrentName="Cyprus" LocationType="country" LocationId="COUNTRY_CY">Cyprus</Country>
+  <Country StateCode="" ISOCountryCode="CZ" CurrentName="Czech Republic" LocationType="country" LocationId="COUNTRY_CZ">Czech Republic</Country>
+  <Country StateCode="" ISOCountryCode="DK" CurrentName="Denmark" LocationType="country" LocationId="COUNTRY_DK">Denmark</Country>
+  <Country StateCode="" ISOCountryCode="DM" CurrentName="Dominica" LocationType="country" LocationId="COUNTRY_DM">Dominica</Country>
+  <Country StateCode="" ISOCountryCode="DO" CurrentName="Dominican Republic" LocationType="country" LocationId="COUNTRY_DO">Dominican Republic</Country>
+  <Country StateCode="" ISOCountryCode="EC" CurrentName="Ecuador" LocationType="country" LocationId="CouEcuador066">Ecuador</Country>
+  <Country StateCode="" ISOCountryCode="EG" CurrentName="Egypt" LocationType="country" LocationId="COUNTRY_EG">Egypt</Country>
+  <Country StateCode="" ISOCountryCode="EE" CurrentName="Estonia" LocationType="country" LocationId="COUNTRY_EE">Estonia</Country>
+  <Country StateCode="" ISOCountryCode="FJ" CurrentName="Fiji" LocationType="country" LocationId="CouFjFiji953">Fiji</Country>
+  <Country StateCode="" ISOCountryCode="FI" CurrentName="Finland" LocationType="country" LocationId="COUNTRY_FI">Finland</Country>
+  <Country StateCode="" ISOCountryCode="GF" CurrentName="French Guiana" LocationType="country" LocationId="COUNTRY_GF">French Guiana</Country>
+  <Country StateCode="" ISOCountryCode="PF" CurrentName="French Polynesia" LocationType="country" LocationId="COUNTRY_PF">French Polynesia</Country>
+  <Country StateCode="" ISOCountryCode="GE" CurrentName="Georgia" LocationType="country" LocationId="COUNTRY_GE">Georgia</Country>
+  <Country StateCode="" ISOCountryCode="DE" CurrentName="Germany" LocationType="country" LocationId="COUNTRY_DE">Germany</Country>
+  <Country StateCode="" ISOCountryCode="GH" CurrentName="Ghana" LocationType="country" LocationId="COUNTRY_GH">Ghana</Country>
+  <Country StateCode="" ISOCountryCode="GI" CurrentName="Gibraltar" LocationType="country" LocationId="COUNTRY_GI">Gibraltar</Country>
+  <Country StateCode="" ISOCountryCode="GR" CurrentName="Greece" LocationType="country" LocationId="COUNTRY_GR">Greece</Country>
+  <Country StateCode="" ISOCountryCode="GP" CurrentName="Guadeloupe" LocationType="country" LocationId="COUNTRY_GP">Guadeloupe</Country>
+  <Country StateCode="" ISOCountryCode="GU" CurrentName="Guam" LocationType="country" LocationId="CouGuGuam973">Guam</Country>
+  <Country StateCode="" ISOCountryCode="GT" CurrentName="Guatemala" LocationType="country" LocationId="COUNTRY_GT">Guatemala</Country>
+  <Country StateCode="" ISOCountryCode="HN" CurrentName="Honduras" LocationType="country" LocationId="COUNTRY_HN">Honduras</Country>
+  <Country StateCode="" ISOCountryCode="HK" CurrentName="Hong Kong" LocationType="country" LocationId="CouHkHongKon429">Hong Kong</Country>
+  <Country StateCode="" ISOCountryCode="HU" CurrentName="Hungary" LocationType="country" LocationId="COUNTRY_HU">Hungary</Country>
+  <Country StateCode="" ISOCountryCode="IS" CurrentName="Iceland" LocationType="country" LocationId="COUNTRY_IS">Iceland</Country>
+  <Country StateCode="" ISOCountryCode="IN" CurrentName="India" LocationType="country" LocationId="COUNTRY_IN">India</Country>
+  <Country StateCode="" ISOCountryCode="ID" CurrentName="Indonesia" LocationType="country" LocationId="COUNTRY_ID">Indonesia</Country>
+  <Country StateCode="" ISOCountryCode="IQ" CurrentName="Iraq" LocationType="country" LocationId="COUNTRY_IQ">Iraq</Country>
+  <Country StateCode="" ISOCountryCode="IE" CurrentName="Ireland" LocationType="country" LocationId="COUNTRY_IE">Ireland</Country>
+  <Country StateCode="" ISOCountryCode="IL" CurrentName="Israel" LocationType="country" LocationId="COUNTRY_IL">Israel</Country>
+  <Country StateCode="" ISOCountryCode="IT" CurrentName="Italy" LocationType="country" LocationId="COUNTRY_IT">Italy</Country>
+  <Country StateCode="" ISOCountryCode="JM" CurrentName="Jamaica" LocationType="country" LocationId="COUNTRY_JM">Jamaica</Country>
+  <Country StateCode="" ISOCountryCode="JP" CurrentName="Japan" LocationType="country" LocationId="COUNTRY_JP">Japan</Country>
+  <Country StateCode="" ISOCountryCode="JO" CurrentName="Jordan" LocationType="country" LocationId="COUNTRY_JO">Jordan</Country>
+  <Country StateCode="" ISOCountryCode="KZ" CurrentName="Kazakhstan" LocationType="country" LocationId="COUNTRY_KK">Kazakhstan</Country>
+  <Country StateCode="" ISOCountryCode="KE" CurrentName="Kenya" LocationType="country" LocationId="COUNTRY_KE">Kenya</Country>
+  <Country StateCode="" ISOCountryCode="XK" CurrentName="Kosovo" LocationType="country" LocationId="COUNTRY_XK">Kosovo</Country>
+  <Country StateCode="" ISOCountryCode="KW" CurrentName="Kuwait" LocationType="country" LocationId="COUNTRY_KW">Kuwait</Country>
+  <Country StateCode="" ISOCountryCode="LA" CurrentName="Laos" LocationType="country" LocationId="COUNTRY_LA">Laos</Country>
+  <Country StateCode="" ISOCountryCode="LV" CurrentName="Latvia" LocationType="country" LocationId="COUNTRY_LV">Latvia</Country>
+  <Country StateCode="" ISOCountryCode="LB" CurrentName="Lebanon" LocationType="country" LocationId="COUNTRY_LB">Lebanon</Country>
+  <Country StateCode="" ISOCountryCode="LT" CurrentName="Lithuania" LocationType="country" LocationId="COUNTRY_LT">Lithuania</Country>
+  <Country StateCode="" ISOCountryCode="LU" CurrentName="Luxembourg" LocationType="country" LocationId="COUNTRY_LU">Luxembourg</Country>
+  <Country StateCode="" ISOCountryCode="MK" CurrentName="Macedonia" LocationType="country" LocationId="COUNTRY_MK">Macedonia</Country>
+  <Country StateCode="" ISOCountryCode="MY" CurrentName="Malaysia" LocationType="country" LocationId="COUNTRY_MY">Malaysia</Country>
+  <Country StateCode="" ISOCountryCode="MT" CurrentName="Malta" LocationType="country" LocationId="COUNTRY_MT">Malta</Country>
+  <Country StateCode="" ISOCountryCode="MQ" CurrentName="Martinique" LocationType="country" LocationId="COUNTRY_MQ">Martinique</Country>
+  <Country StateCode="" ISOCountryCode="MU" CurrentName="Mauritius" LocationType="country" LocationId="COUNTRY_MU">Mauritius</Country>
+  <Country StateCode="" ISOCountryCode="YT" CurrentName="Mayotte" LocationType="country" LocationId="COUNTRY_YT">Mayotte</Country>
+  <Country StateCode="" ISOCountryCode="MX" CurrentName="Mexico" LocationType="country" LocationId="COUNTRY_MX">Mexico</Country>
+  <Country StateCode="" ISOCountryCode="MD" CurrentName="Moldova" LocationType="country" LocationId="COUNTRY_MD">Moldova</Country>
+  <Country StateCode="" ISOCountryCode="MN" CurrentName="Mongolia" LocationType="country" LocationId="COUNTRY_MN">Mongolia</Country>
+  <Country StateCode="" ISOCountryCode="ME" CurrentName="Montenegro" LocationType="country" LocationId="CouMeMontene623">Montenegro</Country>
+  <Country StateCode="" ISOCountryCode="MA" CurrentName="Morocco" LocationType="country" LocationId="COU_Morocco">Morocco</Country>
+  <Country StateCode="" ISOCountryCode="MZ" CurrentName="Mozambique" LocationType="country" LocationId="COUNTRY_MZ">Mozambique</Country>
+  <Country StateCode="" ISOCountryCode="NA" CurrentName="Namibia" LocationType="country" LocationId="COUNTRY_NA">Namibia</Country>
+  <Country StateCode="" ISOCountryCode="NC" CurrentName="New Caledonia" LocationType="country" LocationId="COUNTRY_NC">New Caledonia</Country>
+  <Country StateCode="" ISOCountryCode="NZ" CurrentName="New Zealand" LocationType="country" LocationId="COUNTRY_NZ">New Zealand</Country>
+  <Country StateCode="" ISOCountryCode="NI" CurrentName="Nicaragua" LocationType="country" LocationId="COUNTRY_NI">Nicaragua</Country>
+  <Country StateCode="" ISOCountryCode="NO" CurrentName="Norway" LocationType="country" LocationId="COUNTRY_NO">Norway</Country>
+  <Country StateCode="" ISOCountryCode="OM" CurrentName="Oman" LocationType="country" LocationId="COUNTRY_OM">Oman</Country>
+  <Country StateCode="" ISOCountryCode="PK" CurrentName="Pakistan" LocationType="country" LocationId="COUNTRY_PK">Pakistan</Country>
+  <Country StateCode="" ISOCountryCode="PW" CurrentName="Palau" LocationType="country" LocationId="CouPwPalau089">Palau</Country>
+  <Country StateCode="" ISOCountryCode="PA" CurrentName="Panama" LocationType="country" LocationId="COUNTRY_PA">Panama</Country>
+  <Country StateCode="" ISOCountryCode="PY" CurrentName="Paraguay" LocationType="country" LocationId="CouPyParagua418">Paraguay</Country>
+  <Country StateCode="" ISOCountryCode="PE" CurrentName="Peru" LocationType="country" LocationId="COUNTRY_PE">Peru</Country>
+  <Country StateCode="" ISOCountryCode="PH" CurrentName="Philippines" LocationType="country" LocationId="COUNTRY_PH">Philippines</Country>
+  <Country StateCode="" ISOCountryCode="PL" CurrentName="Poland" LocationType="country" LocationId="COUNTRY_PL">Poland</Country>
+  <Country StateCode="" ISOCountryCode="PT" CurrentName="Portugal" LocationType="country" LocationId="COUNTRY_PT">Portugal</Country>
+  <Country StateCode="" ISOCountryCode="PR" CurrentName="Puerto Rico" LocationType="country" LocationId="COUNTRY_PR">Puerto Rico</Country>
+  <Country StateCode="" ISOCountryCode="QA" CurrentName="Qatar" LocationType="country" LocationId="COUNTRY_QA">Qatar</Country>
+  <Country StateCode="" ISOCountryCode="RO" CurrentName="Romania" LocationType="country" LocationId="COUNTRY_RO">Romania</Country>
+  <Country StateCode="" ISOCountryCode="RU" CurrentName="Russia" LocationType="country" LocationId="COUNTRY_RU">Russia</Country>
+  <Country StateCode="" ISOCountryCode="SA" CurrentName="Saudi Arabia" LocationType="country" LocationId="COUNTRY_SA">Saudi Arabia</Country>
+  <Country StateCode="" ISOCountryCode="RS" CurrentName="Serbia" LocationType="country" LocationId="CouRsSerbia186">Serbia</Country>
+  <Country StateCode="" ISOCountryCode="SG" CurrentName="Singapore" LocationType="country" LocationId="COUNTRY_SG">Singapore</Country>
+  <Country StateCode="" ISOCountryCode="SK" CurrentName="Slovakia" LocationType="country" LocationId="COUNTRY_SK">Slovakia</Country>
+  <Country StateCode="" ISOCountryCode="SI" CurrentName="Slovenia" LocationType="country" LocationId="COUNTRY_SI">Slovenia</Country>
+  <Country StateCode="" ISOCountryCode="ZA" CurrentName="South Africa" LocationType="country" LocationId="COUNTRY_ZA">South Africa</Country>
+  <Country StateCode="" ISOCountryCode="KR" CurrentName="South Korea" LocationType="country" LocationId="COU_SouthKorea">South Korea</Country>
+  <Country StateCode="" ISOCountryCode="LK" CurrentName="Sri Lanka" LocationType="country" LocationId="CouLkSriLank427">Sri Lanka</Country>
+  <Country StateCode="" ISOCountryCode="SR" CurrentName="Suriname" LocationType="country" LocationId="COUNTRY_SR">Suriname</Country>
+  <Country StateCode="" ISOCountryCode="SE" CurrentName="Sweden" LocationType="country" LocationId="COUNTRY_SE">Sweden</Country>
+  <Country StateCode="" ISOCountryCode="CH" CurrentName="Switzerland" LocationType="country" LocationId="COUNTRY_CH">Switzerland</Country>
+  <Country StateCode="" ISOCountryCode="TW" CurrentName="Taiwan" LocationType="country" LocationId="COUNTRY_TW">Taiwan</Country>
+  <Country StateCode="" ISOCountryCode="TZ" CurrentName="Tanzania" LocationType="country" LocationId="COUNTRY_TZ">Tanzania</Country>
+  <Country StateCode="" ISOCountryCode="TH" CurrentName="Thailand" LocationType="country" LocationId="COUNTRY_TH">Thailand</Country>
+  <Country StateCode="" ISOCountryCode="TG" CurrentName="Togo" LocationType="country" LocationId="COUNTRY_TG">Togo</Country>
+  <Country StateCode="" ISOCountryCode="TN" CurrentName="Tunisia" LocationType="country" LocationId="COUNTRY_TN">Tunisia</Country>
+  <Country StateCode="" ISOCountryCode="TR" CurrentName="Turkey" LocationType="country" LocationId="COUNTRY_TR">Turkey</Country>
+  <Country StateCode="" ISOCountryCode="UA" CurrentName="Ukraine" LocationType="country" LocationId="COUNTRY_UA">Ukraine</Country>
+  <Country StateCode="" ISOCountryCode="UY" CurrentName="Uruguay" LocationType="country" LocationId="CouUyUruguay351">Uruguay</Country>
+  <Country StateCode="" ISOCountryCode="VU" CurrentName="Vanuatu" LocationType="country" LocationId="COUNTRY_VU">Vanuatu</Country>
+  <Country StateCode="" ISOCountryCode="VE" CurrentName="Venezuela" LocationType="country" LocationId="CouVenezuela302">Venezuela</Country>
+  <Country StateCode="" ISOCountryCode="ZM" CurrentName="Zambia" LocationType="country" LocationId="COUNTRY_ZM">Zambia</Country>
+  <Country StateCode="" ISOCountryCode="ZW" CurrentName="Zimbabwe" LocationType="country" LocationId="COUNTRY_ZW">Zimbabwe</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Anguilla</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Bonaire</Country>
+  <Country StateCode="" TZ="" Continent="Europe" ISOCountryCode="BA" CurrentName="Bosnia-herzegovina" LocationType="" LocationId="COUNTRY_BA" Ignored="false">Bosnia</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Brunei</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Curacao</Country>
+  <Country StateCode="" TZ="" Continent="Europe" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="false">El Salvador</Country>
+  <Country StateCode="" TZ="" Continent="Europe" ISOCountryCode="FR" CurrentName="Corsica, France" LocationType="" LocationId="REG_FR_Corsica" Ignored="false">France - Corsica</Country>
+  <Country StateCode="" TZ="" Continent="Europe" ISOCountryCode="FR" CurrentName="France" LocationType="" LocationId="COUNTRY_FR" Ignored="false">France - Mainland</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Guernsey</Country>
+  <Country StateCode="" TZ="" Continent="Europe" ISOCountryCode="NL" CurrentName="Netherlands" LocationType="country" LocationId="COUNTRY_NL" Ignored="false">Holland</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Honduras Roatan Island</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Isle Of Man</Country>
+  <Country StateCode="" TZ="" Continent="Europe" ISOCountryCode="IT" CurrentName="Sardinia, Italy" LocationType="city" LocationId="REG_IT_Sardini" Ignored="false">Italy - Sardinia</Country>
+  <Country StateCode="" TZ="" Continent="Europe" ISOCountryCode="IT" CurrentName="Sicily, Italy" LocationType="city" LocationId="REG_IT_Sicily" Ignored="false">Italy - Sicily</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Jersey</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Korea</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Madeira</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Northern Cyprus</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Northern Ireland</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Northern Mariana Islands</Country>
+  <Country StateCode="" TZ="" Continent="Europe" ISOCountryCode="PT" CurrentName="Azores Islands, Portugal" LocationType="city" LocationId="CitPtAzor7495" Ignored="false">Portugal - Azores</Country>
+  <Country StateCode="" TZ="" Continent="Europe" ISOCountryCode="PT" CurrentName="Madeira, Portugal" LocationType="city" LocationId="STA_PT_Madeira" Ignored="false">Portugal - Madeira</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Reunion Island</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Saipan</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Samoa - Western</Country>
+  <Country StateCode="" TZ="" Continent="Europe" ISOCountryCode="ES" CurrentName="Balearic Islands, Spain" LocationType="city" LocationId="REG_ES_Baleari" Ignored="false">Spain - Balearic Islands</Country>
+  <Country StateCode="" TZ="" Continent="Europe" ISOCountryCode="ES" CurrentName="Canary Islands, Spain" LocationType="city" LocationId="REG_ES_CanaryI" Ignored="false">Spain - Canary Islands</Country>
+  <Country StateCode="" TZ="" Continent="Europe" ISOCountryCode="ES" CurrentName="Spain" LocationType="country" LocationId="COUNTRY_ES" Ignored="false">Spain - Mainland</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">St. Barthelemy</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">St. Croix</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">St. Kitts</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">St. Lucia</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">St. Maarten</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">St. Martin</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">St. Thomas</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Tahiti</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Tortola</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Trinidad And Tobago</Country>
+  <Country StateCode="" TZ="" Continent="" ISOCountryCode="" CurrentName="" LocationType="" LocationId="" Ignored="true">Turks and Caicos Islands</Country>
+  <Country StateCode="" TZ="" Continent="Middle East" ISOCountryCode="AE" CurrentName="United Arab Emirates" LocationType="country" LocationId="COUNTRY_AE" Ignored="false">U.A.E.</Country>
+  <Country StateCode="" TZ="" Continent="Europe" ISOCountryCode="GB" CurrentName="Great Britain" LocationType="country" LocationId="COUNTRY_GB" Ignored="false">UK</Country>
+  <Country StateCode="CA" TZ="" Continent="North America" ISOCountryCode="US" CurrentName="California, USA" LocationType="state" LocationId="STA_US_Califor" Ignored="false">USA - California</Country>
+  <Country StateCode="FL" TZ="" Continent="North America" ISOCountryCode="US" CurrentName="Florida, USA" LocationType="state" LocationId="STA_US_Florida" Ignored="false">USA - Florida</Country>
+  <Country StateCode="NV" TZ="" Continent="North America" ISOCountryCode="US" CurrentName="Nevada, USA" LocationType="state" LocationId="STA_US_Nevada" Ignored="false">USA - Las Vegas</Country>
+  <Country StateCode="NY" TZ="" Continent="North America" ISOCountryCode="US" CurrentName="New York, USA" LocationType="state" LocationId="STA_US_NewYork" Ignored="false">USA - New York</Country>
+  <Country CityMergeType="city#state" StateCode="" TZ="" Continent="North America" ISOCountryCode="US" CurrentName="USA" LocationType="country" LocationId="COUNTRY_US" Ignored="false">USA - Other</Country>
+</Countries>
